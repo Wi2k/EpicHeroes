@@ -1,0 +1,17 @@
+name: EpicHeroes
+api: 5.0.0
+version: 1.0.0
+main: Wi2k\EpicHeroes\EpicHeroes
+author: Vasync, AbiusMatrix
+description: An RPG plugin for pocketmine-mp
+permissions:
+  eh.command.guild:
+    default: true
+  eh.command.boss:
+    default: op
+  eh.command.kit:
+    default: true
+  eh.command.editkit:
+    default: op
+  eh.command.quest:
+    default: true
